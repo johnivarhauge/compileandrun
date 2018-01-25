@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /home/s882765/Oppgaver/overblikk/
 FILES=*
 for f in $FILES
 do
